@@ -1,4 +1,4 @@
-# Kevin-Futarine_DIFF-SVC
+# Kevin Futarine DIFF-SVC
 <i> **Kevin Futarine** Voice model for DIFF-SVC by Kaiji</i>
 
 Welcome to Kevin Futarine's DIFF-SVC Github! Please be sure to tag me in anything you make with this voice model.
@@ -9,11 +9,11 @@ Welcome to Kevin Futarine's DIFF-SVC Github! Please be sure to tag me in anythin
 <i>Kevin Futarine "GRANDE" & "VENTI" Official Arts by Liilica</i>
 </p>
 
-# 【SAMPLE】 
+# SAMPLE
 
 https://user-images.githubusercontent.com/42128030/209543382-95c9008c-5742-4af0-9c63-60ed3545948d.mp4
 
-# 【NOTES】 
+# NOTES 
 ### Character Details (Human)
 **Full name:** Kevin Futarine GRANDE
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/42128030/209543382-95c9008c-5742-4af0-
 **44.1kHz model @ 500k steps:**
  - **Voice provider singing:** around 2 hours
 
-# 【TERMS OF USE】
+# TERMS OF USE
 
 ### Attribution
 - When publishing work using this voice model, you are required to state the name of this voice model.
@@ -111,7 +111,7 @@ Kaiji holds no responsibility to any incidents, damage, or loss that occurs to a
 
 These terms of use were originally generated with and adapted from https://tools.tubs.wtf/vbtougen and may or may not include additional edits.
 
-# 【CONTACT INFORMATION】
+# CONTACT INFORMATION
 **Please contact us for any questions or concerns about this voice model.**
  - **Site:** https://fraloids.wixsite.com/kevin-futarine/
 - **Twitter:** [@Kevin_Futarine](https://twitter.com/Kevin_Futarine)
