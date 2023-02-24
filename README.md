@@ -40,7 +40,7 @@ Welcome to Kevin Futarine's DIFF-SVC Github! Please be sure to tag me in anythin
 
 **Species:** Maned Wolf
 
-**Height:** 6'3 (1m90)
+**Height:** 6'3 (1m93)
 
 **Weight:** 253lbs (115kg)
 
@@ -106,6 +106,8 @@ Kaiji holds no responsibility to any incidents, damage, or loss by the user from
 Kaiji holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voice model or voice model character.
 
 These terms of use were originally generated with and adapted from https://tools.tubs.wtf/vbtougen and may or may not include additional edits.
+
+The template of this page is adapted from julierapror's LIEE DIFF-SVC repertory
 
 # CONTACT INFORMATION
 **Please contact us for any questions or concerns about this voice model.**
