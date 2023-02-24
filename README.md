@@ -50,6 +50,7 @@ Welcome to Kevin Futarine's DIFF-SVC page! Please be sure to tag me in anything 
 
 **Fur colour:** Brownish-Red & white
 
+
 **44.1kHz model @ 500k steps:**
  - **Voice provider singing:** around 2 hours
 
