@@ -1,7 +1,7 @@
 # Kevin Futarine DIFF-SVC
 <i> **Kevin Futarine** Voice model for DIFF-SVC by Kaiji</i>
 
-Welcome to Kevin Futarine's DIFF-SVC Github! Please be sure to tag me in anything you make with this voice model.
+Welcome to Kevin Futarine's DIFF-SVC page! Please be sure to tag me in anything you make with this voice model.
 
 <p align="center">
 <img src ="https://github.com/Kevin-Futarine/test/blob/main/artworks.png" height="600" />
