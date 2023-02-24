@@ -4,8 +4,7 @@
 Welcome to Kevin Futarine's DIFF-SVC Github! Please be sure to tag me in anything you make with this voice model.
 
 <p align="center">
-<img src ="https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png" height="600" />
-<img src= "https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC_V2.png" height="600"> 
+<img src ="https://github.com/Kevin-Futarine/Kevin-Futarine_DIFF-SVC/blob/main/artworks.png" height="600" />
 <br>
 <i>Kevin Futarine "GRANDE" & "VENTI" Official Arts by Liilica</i>
 </p>
