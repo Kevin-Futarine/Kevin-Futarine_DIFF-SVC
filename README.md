@@ -9,6 +9,10 @@ Welcome to Kevin Futarine's DIFF-SVC page! Please be sure to tag me in anything 
 <i>Kevin Futarine "GRANDE" & "VENTI" Official Arts by Liilica</i>
 </p>
 
+# SAMPLE 
+
+https://user-images.githubusercontent.com/126287650/221355538-950d6222-634c-464c-b761-f37312ff1330.mp4
+
 # NOTES 
 ### Character Details (Human)
 **Full name:** Kevin Futarine GRANDE
