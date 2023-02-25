@@ -13,6 +13,9 @@ Welcome to Kevin Futarine's DIFF-SVC page! Please be sure to tag me in anything 
 
 https://user-images.githubusercontent.com/126287650/221355538-950d6222-634c-464c-b761-f37312ff1330.mp4
 
+**44.1kHz model @ 500k steps:**
+ - **Voice provider singing:** around 2 hours
+
 # NOTES 
 
 ### Character Details (Human) 
@@ -56,9 +59,6 @@ https://user-images.githubusercontent.com/126287650/221355538-950d6222-634c-464c
 
 **Fur colour:** Brownish-Red & white
 
-
-**44.1kHz model @ 500k steps:**
- - **Voice provider singing:** around 2 hours
 
 # TERMS OF USE
 
